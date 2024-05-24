@@ -15,3 +15,7 @@ ul {
   justify-content: space-around;
   padding: 24px;
 }
+img{
+  width: 150px ;
+  height: 150px;
+}
