@@ -16,6 +16,13 @@ ul {
   padding: 50px;
 }
 img{
-  width: 250px;
-  height: 75px;  
+  position: fixed;
+  width: 80vw;
+  left: 50%;
+  transform: translateX(-50%);
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 600px;
+  gap: 10%;
+  z-index: 2;
 }
