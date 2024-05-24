@@ -12,17 +12,6 @@ body {
 }
 ul {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-;
   padding: 24px;
-}
-header{
-    position: fixed;
-    width: 80vw;
-    left: 50%;
-    transform: translateX(-50%);
-    display: grid;
-    align-items: center;
-    grid-template-columns: 1fr 600px;
-    gap: 10%;
-    z-index: 2;
 }
