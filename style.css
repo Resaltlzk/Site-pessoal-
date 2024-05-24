@@ -10,6 +10,10 @@ body {
     color: white;
 
 }
+ul {
+  display: flex;
+  justify-content: space-between;
+}
 header{
     position: fixed;
     width: 80vw;
