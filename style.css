@@ -12,6 +12,6 @@ body {
 }
 ul {
   display: flex;
-  justify-content: space-;
+  justify-content: space-around;
   padding: 24px;
 }
