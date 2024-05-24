@@ -6,8 +6,8 @@
     font-family: "Bebas Neue", sans-serif;
 }
 body {
-    background-color:black;
-    color: white;
+    background-color:white;
+    color: black;
 
 }
 ul {
@@ -17,5 +17,5 @@ ul {
 }
 img{
   width: 511px;
-  height: 150px;
+  height: 255px;
 }
