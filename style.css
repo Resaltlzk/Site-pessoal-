@@ -13,7 +13,7 @@ body {
 ul {
   display: flex;
   justify-content: space-around;
-  padding: 24px;
+  padding: 48px;
 }
 img{
   width: 250px;
