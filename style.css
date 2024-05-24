@@ -1,22 +1,24 @@
 header {
     background-color: #383D58;
     color: white;
-    }
-    .cabecalho{
-        background-color: #383D58;
-        color: white;
-        display: flex;
-        justify-content: space-around;
-    }
-    .cabecalho-lista-item{
-        position: fixed;
-        width: 80vw;
-        left: 50%;
-        transform: translateX(-50%);
-        display: grid;
-        align-items: center;
-        grid-template-columns: 1fr 600px;
-        gap: 10%;
-        z-index: 2;   
 
-    }
+}
+
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-lista-item {
+    position: fixed;
+    width: 80vw;
+    left: 50%;
+    transform: translateX(-50%);
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 600px;
+    gap: 10%;
+    z-index: 2;
+
