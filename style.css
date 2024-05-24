@@ -14,6 +14,4 @@ ul {
   display: flex;
   justify-content: space-around;
   padding: 50px;
-  width: 225px;
-  height: 75;
 }
