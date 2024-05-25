@@ -22,7 +22,7 @@ header {
   grid-template-columns: 1fr 600px;
   gap: 10%;
   z-index: 2;
-  background-image: radial-gradient(black, pink);
+  background-image: radial-gradient(pink, black);
 
   & img {
     width: 350px;
