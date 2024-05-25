@@ -10,7 +10,7 @@ body {
     color: white;
 
 }
-ul {
+.cabecalho{
   display: flex;
   justify-content: space-around;
   padding: 75px;
