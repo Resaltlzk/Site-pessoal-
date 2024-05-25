@@ -9,8 +9,8 @@ body {
     background-color: #424e85;
     color: white;
 
-}
-ul {
+} 
+header{
   position: fixed;
   width: 80vw;
   left: 50%;
