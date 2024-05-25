@@ -13,6 +13,6 @@ body {
 ul {
   display: flex;
   justify-content: space-around;
-  padding: end;
+  padding: center 50px;
   background-color: black;
 }
