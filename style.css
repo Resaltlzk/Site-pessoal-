@@ -11,14 +11,16 @@ body {
 
 }
 ul {
-  display: flex;
-  justify-content: space-around;
-  padding: 75px;
-  background-color: black;
-  
+  position: fixed;
+  width: 80vw;
+  left: 50%;
+  transform: translateX(-50%);
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 600px;
+  gap: 10%;
+  z-index: 2;
+
+
 }
-div{
-  width: 145px;
-  height: 100px;
-  padding: 50px;
-}
+
