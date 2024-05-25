@@ -10,9 +10,15 @@ body {
     color: white;
 
 }
-.cabecalho{
+ul {
   display: flex;
   justify-content: space-around;
   padding: 75px;
   background-color: black;
+  
+}
+div{
+  width: 145px;
+  height: 100px;
+  padding: 50px;
 }
