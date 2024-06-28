@@ -9,6 +9,7 @@
 body {
   background-color: #424e85;
   color: white;
+  
 
 }
 
@@ -30,8 +31,8 @@ header {
 
   & nav {
     & ul {
-      display:;
-      grid-template-columns: repeat(3, 200px);
+      display:grid;
+      grid-template-columns: repeat(2, 200px);
     }
   }
 }
