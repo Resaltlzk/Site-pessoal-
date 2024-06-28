@@ -36,7 +36,8 @@ header {
   display: grid;
   grid-template-columns: repeat(2, 200px);
   font-weight: bold;
-  & a {
+}
+a {
     color: black;
   }
-}
+
