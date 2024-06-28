@@ -30,7 +30,7 @@ header {
   
   }
 
-.bdp ul{
+ul {
   display: grid;
   grid-template-columns: repeat(2, 200px);
   text-align: center;
