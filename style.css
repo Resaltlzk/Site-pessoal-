@@ -34,6 +34,6 @@ header {
 .sidebar {
   display: grid;
   grid-template-columns: repeat(2, 200px);
-  text-align: center;
+  font-weight: bold;
 
  }
