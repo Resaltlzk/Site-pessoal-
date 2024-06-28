@@ -24,15 +24,14 @@ header {
   gap: 10%;
   z-index: 2;
   background-image: radial-gradient(#424e85);
-
+}
   & img {
     width: 350px;
   
   }
 
-ul {
+.bdp {
   display: grid;
   grid-template-columns: repeat(2, 200px);
-  text-align: center;
+  
  }
-}
