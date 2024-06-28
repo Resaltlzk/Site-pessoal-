@@ -29,10 +29,7 @@ header {
     width: 350px;
   }
 
-  & nav {
-    & p {
-      display:grid;
-      grid-template-columns: repeat(2, 200px);
-    }
-  }
+p {
+  display: grid;
+  grid-template-columns: repeat(2, 200px);
 }
