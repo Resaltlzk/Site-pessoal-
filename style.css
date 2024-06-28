@@ -22,7 +22,7 @@ header {
   grid-template-columns: 1fr 600px;
   gap: 10%;
   z-index: 2;
-  background-image: radial-gradient(pink, black);
+  background-image: radial-gradient(#424e85, rgb(90, 75, 75));
 
   & img {
     width: 350px;
@@ -30,7 +30,7 @@ header {
 
   & nav {
     & ul {
-      display:flex;
+      display:;
       grid-template-columns: repeat(3, 200px);
     }
   }
